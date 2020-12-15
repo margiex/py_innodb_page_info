@@ -2,7 +2,7 @@
 
 python tool for innodb page info
  
-首先 要安装python
+首先 要安装python3.6及以上
 
 用法 ：
 
